@@ -26,7 +26,7 @@ namespace Abstraction
 
             Console.WriteLine();
             Console.WriteLine("2. Jajar Genjang");
-            bangundatar = new PersegiPanjang();
+            bangundatar = new JajarGenjang();
             bangundatar.Luas();
             bangundatar.Keliling();
 
